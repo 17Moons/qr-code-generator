@@ -1,0 +1,19 @@
+hi there it's me 17Moons
+
+open command prompt as admin and paste following commands
+
+
+pip install qrcode 
+
+pip install qrcode[pil]
+
+
+after that 
+you just follow the step as the program asks you
+
+for changing the color of the custom_qr you just need to redefine the color codes
+
+for changing the embeded image in the embed_qr is you will need to copy your image in png format
+in the same folder as that of the code and write the name of your png in place of 17Moons in the code
+
+All the best
